@@ -1,6 +1,6 @@
-import './index.css';
-import './vanilla/lunarRover.vanilla';
-// import './react/lunarRover.react';
-
 import registerServiceWorker from './registerServiceWorker';
+
+import './index.css';
+import './lunarRover';
+
 registerServiceWorker();
