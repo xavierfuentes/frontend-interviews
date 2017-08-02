@@ -1,3 +1,5 @@
+import $ from 'jquery';
+
 import './lunarRover.vanilla.css';
 
 // Model the Moon, Lander and Rover as separate objects and export them

@@ -1,27 +1,33 @@
-// import whatever you need from the lunarRover file
+import { $ } from 'jquery';
 
-describe("The Lander", () => {
+document.body.innerHTML = `
+<div id="moon"></div>
 
-    it("can land on the Moon", () => {
-        expect(false).toEqual(true);
-    });
+<div id="lander">
+  <div id="rover"></div>
+</div>
+`;
 
-    it("will land at a specific position", () => {
-        expect(false).toEqual(true);
-    });
+describe('The Lander', () => {
+  it('can land on the Moon', () => {
+    expect(false).toEqual(true);
+  });
+
+  it('will land at a specific position', () => {
+    expect(false).toEqual(true);
+  });
 });
 
-describe("The Rover", () => {
+describe('The Rover', () => {
+  it('can disembark the Lander', () => {
+    expect(false).toEqual(true);
+  });
 
-    it("can disembark the Lander", () => {
-        expect(false).toEqual(true);
-    });
+  it('will disembark initially at the Landers position', () => {
+    expect(false).toEqual(true);
+  });
 
-    it("will disembark initially at the Landers position", () => {
-        expect(false).toEqual(true);
-    });
-
-    it("can move around the Moon", () => {
-        expect(false).toEqual(true);
-    });
+  it('can move around the Moon', () => {
+    expect(false).toEqual(true);
+  });
 });
