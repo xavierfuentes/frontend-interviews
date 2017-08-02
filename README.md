@@ -1,5 +1,7 @@
 ## Lunar Rover
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/xavifuefer/frontend-interviews.svg)](https://greenkeeper.io/)
+
 This is a JavaScript test that is quite open. Ideally the candidate will show a good enough knowledge of OOJS, and testing. It's a pairing exercise, so small gaps in knowledge of OOJS or the specifics of Jasmine can be quickly filled: Personally I prefer to push them through the test to see how broad their knowledge is, and ultimately to see how quickly they learn new patterns.
 
 Ideally the candidate will complete the test by appropriately modelling the 3 items as objects, tying the instances to the DOM, and capable of manipulating the DOM as needed to achieve the goals. Testing wise the candidate may write the tests first, or as they go, whichever they feel comfortable with. Ultimately we're looking for familiarity with objects, familiarity with the DOM, and familiarity with tests.
