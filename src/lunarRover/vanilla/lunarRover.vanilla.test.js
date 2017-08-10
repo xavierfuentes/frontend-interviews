@@ -1,4 +1,4 @@
-import { $ } from 'jquery';
+import $ from 'jquery';
 
 document.body.innerHTML = `
 <div id="moon"></div>
